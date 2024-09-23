@@ -1,6 +1,6 @@
 # About Me
 
-## Hi there! 👋 I'm Nazat Hossain ADi
+## Hi there! 👋 I'm Abdullah Al Amin
 
 
 I'm a passionate and dedicated MERN Stack Developer with a knack for building dynamic and robust web applications. My expertise lies in leveraging the power of MongoDB, Express.js, React, and Node.js to deliver high-performance websites and applications that meet client needs across various industries.
